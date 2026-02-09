@@ -5,3 +5,7 @@ theme = "PaperMod"
 
 [taxonomies]
 tag = "tags"
+
+
+[params]
+  customCSS = ["css/custom.css"]

@@ -12,10 +12,14 @@
   </url><url>
     <loc>http://localhost:1313/encyclopedie/</loc>
   </url><url>
+    <loc>http://localhost:1313/encyclopedie/frikhamn/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/g%C3%A9ographie/</loc>
   </url><url>
     <loc>http://localhost:1313/recits/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ville/</loc>
   </url>
 </urlset>

@@ -1,0 +1,13 @@
+/* Fond de la page */
+body {
+    background-color: #aa9684;
+    color: #1a1a1a;
+
+/* Liens */
+a {
+    color: #0066cc;
+}
+
+a:hover {
+    color: #004499;
+}
