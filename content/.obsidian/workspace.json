@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "encyclopedie/Aërra.md",
+                "file": "carnets/Carnet 1 - Bienvenue sur le blog d'Aërra Sagas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aërra"
+              "title": "Carnet 1 - Bienvenue sur le blog d'Aërra Sagas"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "encyclopedie/Frikhamn.md",
+                "file": "A propos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frikhamn"
+              "title": "A propos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Perso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "encyclopedie/Frikhamn.md",
+                "file": "encyclopedie/Miyotsu Tatsumori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour Frikhamn"
+              "title": "Rétrolien pour Miyotsu Tatsumori"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "encyclopedie/Frikhamn.md",
+                "file": "encyclopedie/Miyotsu Tatsumori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de Frikhamn"
+              "title": "Liens sortants de Miyotsu Tatsumori"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "encyclopedie/Frikhamn.md",
+                "file": "encyclopedie/Miyotsu Tatsumori.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Frikhamn"
+              "title": "Plan de Miyotsu Tatsumori"
             }
           }
         ]
@@ -198,14 +197,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee758849b4436426",
+  "active": "f8aacd51176911a4",
   "lastOpenFiles": [
-    "encyclopedie/Aërra.md",
-    "encyclopedie/Frikhamn.md",
-    "_index.md",
     "A propos.md",
-    "recits/_index.md",
+    "carnets/Carnet 1 - Bienvenue sur le blog d'Aërra Sagas.md",
+    "recits/L'attente éternelle.md",
+    "encyclopedie/geograhie/etats/Kjarrdom.md",
+    "images/carte-aerra.png",
+    "images",
+    "Nouveau dossier",
+    "carte-aerra.png",
+    "encyclopedie/geograhie/Aërra.md",
+    "encyclopedie/personnages/_index.md",
+    "encyclopedie/geograhie/villes/_index.md",
+    "encyclopedie/geograhie/etats/_index.md",
+    "encyclopedie/evenements/_index.md",
+    "encyclopedie/personnages/Miyotsu Tatsumori.md",
+    "encyclopedie/personnages/Frik Heimer.md",
+    "encyclopedie/geograhie/villes/Vhal-Torun.md",
+    "encyclopedie/geograhie/villes/Varnès.md",
+    "encyclopedie/geograhie/villes/Frikhamn.md",
+    "encyclopedie/geograhie/villes/Erhald.md",
+    "encyclopedie/evenements/Unification.md",
+    "encyclopedie/evenements/Guerre Civile.md",
+    "recits/Pèlerinage d'amour.md",
+    "carnets/_index.md",
+    "carnets/Nouveau Document texte.txt",
+    "carnets",
+    "_index.md",
+    "Bluesky.svg",
+    "Instagram.svg",
+    "bluesky.svg",
+    "instagram.svg",
+    "carte/_index.md",
+    "carte/Nouveau Document texte.txt",
+    "carte",
+    "encyclopedie/evenements",
+    "encyclopedie/geograhie/villes/Frikhamn 1.md",
+    "encyclopedie/geograhie/villes/frikhamn 1.md",
+    "encyclopedie/geograhie/etats",
+    "encyclopedie/geograhie/villes",
+    "encyclopedie/geograhie/_index.md",
+    "encyclopedie/geograhie",
     "encyclopedie/_index.md",
-    "Contact.md"
+    "Frik Heimer.md"
   ]
 }

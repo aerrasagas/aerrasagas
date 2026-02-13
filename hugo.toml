@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aerrasagas.github.io'
 languageCode = 'fr-fr'
 title = 'Aërra Sagas'
 theme = "PaperMod"
@@ -8,4 +8,7 @@ tag = "tags"
 
 
 [params]
-  customCSS = ["css/custom.css"]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-16x16.png"
+favicon32x32 = "/favicon-32x32.png"
+apple_touch_icon = "/apple-touch-icon.png"

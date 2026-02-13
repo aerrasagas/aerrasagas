@@ -1,0 +1,58 @@
+.logo-light { display: none; }
+html[data-theme="light"] .logo-light { display: inline; }
+html[data-theme="light"] .logo-dark { display: none; }
+
+.logo-dark { display: none; }
+html[data-theme="dark"] .logo-dark { display: inline; }
+html[data-theme="dark"] .logo-light { display: none; }
+
+.site-branding img { height: 100px; width: auto}
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav {
+    min-height: 100px;
+    align-items: center;
+}
+
+.logo a {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.header {
+    border-bottom: 1px solid var(--theme);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.site-title {
+    font-size: 40px;
+    color: var(--title);
+}
+
+.header nav ul#menu {
+    color: var(--title);
+    padding-top: 15px;
+    min-height: 85px;
+}
+
+.header nav ul#menu li span {
+    font-size: 20px;
+    background: var(--entry);
+    padding: 1rem;
+    border-radius: 12px;
+}
+
+#menu {
+    padding-top: 0;
+    margin: 0;
+}
+
+#menu .active {
+    font-weight: bold;
+    border-bottom: 4px solid rgba(0, 0, 0, 0.2);
+}

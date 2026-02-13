@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="home-intro">
+  {{ .Content }}
+</section>
+
+
+<section class="home-carnets">
+  <h2>Derniers carnets</h2>
+  <ul>
+    {{ range first 3 (where .Site.RegularPages "Type" "carnets") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+<section class="home-latest">
+  <h2>Derniers récits</h2>
+  <ul>
+    {{ range first 3 (where .Site.RegularPages "Type" "récits") }}
+      <li><a href="{{ .RelPermalink }}"><div>{{ .Title }}</div>{{ .Summary }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+
+<section class="home-encyclo">
+  <h2>Dernières notices</h2>
+  <ul>
+    {{ range first 3 (where .Site.RegularPages "Type" "encyclopédie") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}

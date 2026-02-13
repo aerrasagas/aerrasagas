@@ -6,26 +6,48 @@
     <description>Recent content in Tags on Aërra Sagas</description>
     <generator>Hugo -- 0.155.2</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Carnets</title>
+      <link>http://localhost:1313/tags/carnets/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/carnets/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Continent</title>
       <link>http://localhost:1313/tags/continent/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/continent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Etat</title>
+      <link>http://localhost:1313/tags/etat/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/etat/</guid>
       <description></description>
     </item>
     <item>
       <title>Géographie</title>
       <link>http://localhost:1313/tags/g%C3%A9ographie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/g%C3%A9ographie/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ville</title>
-      <link>http://localhost:1313/tags/ville/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ville/</guid>
+      <title>Impérial</title>
+      <link>http://localhost:1313/tags/imp%C3%A9rial/</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/imp%C3%A9rial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texte</title>
+      <link>http://localhost:1313/tags/texte/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/texte/</guid>
       <description></description>
     </item>
   </channel>
