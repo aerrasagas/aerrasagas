@@ -16,6 +16,9 @@
     {{- partial "head.html" . }}
 </head>
 
+<script data-goatcounter="https://darkizai.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 {{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) }}
 <body class="list" id="top">
 {{- else }}
